@@ -57,7 +57,7 @@
     },
     {
       "tag": "joke",
-      "patterns": ["Tell me a joke", "Do you know any jokes?"],
+      "patterns": ["Tell me a joke", "Do you know any jokes?", "make me laugh"],
       "responses": [
         "Why don't scientists trust atoms? Because they make up everything!", 
         "What do you call fake spaghetti? An impasta!", 
