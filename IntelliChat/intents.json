@@ -84,7 +84,7 @@
         "I'm built using natural language processing (NLP) techniques and machine learning algorithms.", 
         "I use artificial intelligence (AI) to understand and respond to user queries.", 
         "My underlying technology includes deep learning models and neural networks.", 
-        "I'm programmed using Python and utilize libraries like TensorFlow and NLTK.", 
+        "I'm programmed using Python and utilize libraries like PyTorch and NLTK.", 
         "I leverage advanced algorithms to analyze text data and generate responses."
       ]
     },
